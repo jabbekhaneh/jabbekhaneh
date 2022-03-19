@@ -3,11 +3,7 @@
 <h3 align="center">Working at Home and freelancer Experienced Software Engineer with a demonstrated history of working in the program development industry and Strong engineering professional graduated from Shiraz University. Skilled in *** -Front end- *** html,css,sass,boostrap,Materialize,javascript, jQuery,Vuejs,WebPack,ionic *** -Backend- *** Programing C#,OOP,Asp.netCore,REST,signalR,efcore, BDD,TDD,blazor,qraphQL,solid,clean code, CQRS,DDD,Docker,gRPC ,Azure,Microservices,Agile,scrum *** -Database- *** SqlServer,mongodb</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jabbekhaneh&label=Profile%20views&color=0e75b6&style=flat" alt="jabbekhaneh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jabbekhaneh" alt="jabbekhaneh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jabbekhaneh" target="blank"><img src="https://img.shields.io/twitter/follow/jabbekhaneh?logo=twitter&style=for-the-badge" alt="jabbekhaneh" /></a> </p>
 
 - 🔭 I’m currently working on **Track back**
 
