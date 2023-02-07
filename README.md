@@ -1,6 +1,6 @@
 <img  src="https://github.com/jabbekhaneh/Files/blob/main/images/02.gif">
 <h1 align="center">Hi 👋, I'm Jabbekhaneh</h1>
-<h3 align="center">Working at Home and freelancer Experienced Software Engineer with a demonstrated history of working in the program development industry and Strong engineering  Skilled html,css,sass,boostrap,Materialize,javascript, jQuery,Vuejs,WebPack,ionic,Programing C#,OOP,Asp.netCore,REST,signalR,efcore, BDD,TDD,blazor,qraphQL,solid,clean code, CQRS,DDD,Docker,gRPC ,Azure,Microservices,Agile,scrum,SqlServer,mongodb</h3>
+<h3 align="center">I'm a fullstack web developer focused on Microsoft technologies. I've been a .NET developer for more than 4 years, working in the broad area of problems and business requirements  Skilled html,css,sass,boostrap,Materialize,javascript, jQuery,Vuejs,WebPack,ionic,Programing C#,OOP,Asp.netCore,REST,signalR,efcore, BDD,TDD,blazor,qraphQL,solid,clean code, CQRS,DDD,Docker,gRPC ,Azure,Microservices,Agile,scrum,SqlServer,mongodb</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/jabbekhaneh/Files/blob/main/images/code-coffee.gif">
 
 
