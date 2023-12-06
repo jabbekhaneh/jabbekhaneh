@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **https://wa.me/+989227069076**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jabbekhaneh](https://www.linkedin.com/in/jabbekhaneh/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jabbekhaneh](https://www.jabbekhaneh.ir/)
 
 - ⚡ Fun fact **I am serious in my work**
 
