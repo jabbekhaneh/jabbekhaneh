@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Track back**
+- 🔭 I’m currently focused on **Microsoft** technologies
 
 - 🌱 I’m currently learning **Microservice**
 
