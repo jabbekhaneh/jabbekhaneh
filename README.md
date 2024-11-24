@@ -20,7 +20,7 @@
 - ⚡ Fun fact **I am serious in my work**
 
 
-# 💻 Languages and Tools:
+
 
 
 
